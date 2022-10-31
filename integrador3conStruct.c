@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+//Alumno: Mateo Bernardi
 /*Deseamos realizar un programa que gestione las notas de una clase de 10 alumnos de los
 cuales sabemos el DNI y la nota. El programa debe mostrar un menú con las siguientes
 opciones a resolver:
